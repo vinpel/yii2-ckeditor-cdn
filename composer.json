@@ -1,0 +1,30 @@
+{
+    "name": "wadeshuler/yii2-ckeditor-cdn",
+    "description": "My restriction free version of a CKEditor CDN extension for Yii2",
+    "keywords": [
+        "yii2",
+        "widget",
+        "extension",
+        "ckeditor",
+        "cdn"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/wadeshuler/yii2-ckeditor-cdn/issues?state=open",
+        "source": "https://github.com/wadeshuler/yii2-ckeditor-cdn"
+    },
+    "authors": [
+        {
+            "name": "Wade Shuler",
+            "email": "wadeshuler@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "wadeshuler\\ckeditor\\": ""
+        }
+    }
+
+}
