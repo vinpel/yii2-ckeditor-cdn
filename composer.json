@@ -1,5 +1,5 @@
 {
-    "name": "wadeshuler/yii2-ckeditor-cdn",
+    "name": "vinpel/yii2-ckeditor-cdn",
     "description": "My restriction free version of a CKEditor CDN extension for Yii2",
     "keywords": [
         "yii2",
@@ -23,7 +23,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "wadeshuler\\ckeditor\\": ""
+            "vinpel\\ckeditor\\": ""
         }
     }
 
